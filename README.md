@@ -1,3 +1,7 @@
+
+<img src="https://user-images.githubusercontent.com/123765654/234369124-b962b566-21a2-4345-9e80-81632fbfa62f.jpg" width="400">
+
+
 # Android Undercover
 During this talk, I dive into how native code is used as an effective obfuscation technique. Implementing partial or fully-native Android application code creates challenges for reverse engineers and antiviruses. We will explore the techniques for writing native code and watch as the new app goes undetected. Then I will demonstrate how to reverse engineer and thwart an application using this obfuscation method.
 
@@ -6,7 +10,8 @@ If you want to follow along during the talk, make sure you have the following to
 
 - [JADX](https://github.com/skylot/jadx)
 - [Android Studio](https://developer.android.com/studio)
-  - Make sure the NDK is installed [Install and configure the NDK and CMake](https://developer.android.com/studio/projects/install-ndk)
+  - Make sure the NDK is installed [Install ![Uploading Ft9HfijWwAEP6dC.jpg…]()
+and configure the NDK and CMake](https://developer.android.com/studio/projects/install-ndk)
 - [Ghidra](https://ghidra-sre.org/)
 
 ## Link References
