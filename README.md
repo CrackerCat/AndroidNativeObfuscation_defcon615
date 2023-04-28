@@ -19,7 +19,10 @@ and configure the NDK and CMake](https://developer.android.com/studio/projects/i
 ### Anubis Sample Links
 - Partial Anubis APK source code: PartialAnubis_source.zip (in repo)
 - Partial Anubis compiled APK: PartialAnubis_apk.zip (in repo)
-- Full Android Anubis source code (Android.Anubis.b.7z): https://github.com/vxunderground/MalwareSourceCode/tree/main/Android
+- Full Android Anubis source code (Android.Anubis.b.7z): 
+
+  - https://github.com/vxunderground/MalwareSourceCode/tree/main/Android\
+
 - Password: infected
 
 ### Java Native Interface (JNI)
