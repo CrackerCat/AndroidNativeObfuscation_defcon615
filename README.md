@@ -14,6 +14,16 @@ If you want to follow along during the talk, make sure you have the following to
 and configure the NDK and CMake](https://developer.android.com/studio/projects/install-ndk)
 - [Ghidra](https://ghidra-sre.org/)
 
+
+
+## Slides
+
+Slides are located in the repository under:
+
+[AndroidUndercover_Defcon615_slides.pdf](https://github.com/LaurieWired/AndroidNativeObfuscation_defcon615/blob/main/AndroidUndercover_Defcon615_slides.pdf)
+
+
+
 ## Link References
 
 ### Anubis Sample Links
